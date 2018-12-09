@@ -11,4 +11,3 @@ This system have these functionalities:
 - Responsive Design
 
 ***
-you can see Demo [Here](http://mydemos.byethost7.com/laravel/public)
